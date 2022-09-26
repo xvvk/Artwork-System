@@ -1,6 +1,7 @@
 # Artwork-System
 CS312 Web App Assessment
 
+##### Completed by Karmen Tsang
 
 Implement a full web system to support Cara with handling painting orders.
 
